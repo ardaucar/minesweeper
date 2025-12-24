@@ -21,8 +21,8 @@ The entire project is written in Turkish, as it was developed for a school cours
 
 ## Screenshots
 
-In game:<br>
-![In game](screenshot.jpg)
+In Game:<br>
+![In Game](screenshot.jpg)
 
 ---
 
